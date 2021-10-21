@@ -78,7 +78,7 @@ const Todo = () => {
 
   return (
     <>
-      <h1 className="title">App Todo</h1>     
+      <h1 className="title">Todo</h1>     
       <input
         className="form-control" type="text" value={name} placeholder="Enter name" onChange={(e) => changeName(e)} 
       />
