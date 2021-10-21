@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-add {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.title {
+  margin-bottom: 50px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}

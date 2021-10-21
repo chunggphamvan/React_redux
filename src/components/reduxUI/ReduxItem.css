@@ -1,0 +1,16 @@
+.ReduxItem__Id {
+  width: 20%;
+}
+  
+.ReduxItem__Name {
+  width: 35%;
+}
+  
+.ReduxItem__Price {
+  width: 25%;
+}
+
+.ReduxItem__Button {
+  width: 20%;
+  text-align: right;
+}

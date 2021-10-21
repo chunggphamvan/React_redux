@@ -1,0 +1,16 @@
+.TodoItem__Id {
+    width: 20%;
+  }
+  
+  .TodoItem__Name {
+    width: 35%;
+  }
+  
+  .TodoItem__Price {
+    width: 25%;
+  }
+
+  .TodoItem__Button {
+    width: 20%;
+    text-align: right;
+  }
